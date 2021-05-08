@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@react-navigation/native": "^5.9.4",
     "react-icons": "^4.2.0",
     "react-router-dom": "^5.2.0"
   }
